@@ -1,0 +1,8 @@
+Official:
+  - version: 11.0
+    lts: true
+    gpg: check
+Bets:
+  - version: 12.0
+    lts: true
+    gpg: check
